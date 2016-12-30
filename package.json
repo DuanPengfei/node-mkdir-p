@@ -1,0 +1,8 @@
+{
+  "name": "mkdir-p",
+  "version": "0.1.0",
+  "description": "mkdir -p",
+  "main": "index.js",
+  "author": "DuanPengfei<duanpengfei1993@gmail.com>",
+  "license": "MIT"
+}
