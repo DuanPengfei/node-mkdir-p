@@ -1,8 +1,16 @@
 {
-  "name": "mkdir-p",
+  "name": "node-mkdir-p",
   "version": "0.1.0",
   "description": "mkdir -p",
   "main": "index.js",
-  "author": "DuanPengfei<duanpengfei1993@gmail.com>",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuanPengfei/node-mkdir-p.git"
+  },
+  "author": "DuanPengfei <duanpengfei1993@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DuanPengfei/node-mkdir-p/issues"
+  },
+  "homepage": "https://github.com/DuanPengfei/node-mkdir-p#readme"
 }
